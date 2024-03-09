@@ -21,3 +21,4 @@ Feel free to explore my projects and reach out if you'd like to collaborate or d
 
 ## Some utilities I've built
 - [Json Query Tool](/public/dev-tools/json-query/)
+- [Generate Java Pattern](/public/dev-tools/generate-java-pattern.html)
